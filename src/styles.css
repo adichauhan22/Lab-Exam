@@ -1,0 +1,31 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background: #f8f8f8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+  }
+  
+  .form input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+  }
+  
+  .form button {
+    margin: 0.5rem;
+  }
+  
+  .card {
+    background: #fff;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
